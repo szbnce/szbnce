@@ -3,9 +3,9 @@
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=NotEclypse)](https://t.me/NotEclypse)
 
 ### Current working devices
- Google Pixel 7 Pro (main device)
+ iPhone 16 Pro (Main device)
 
- iPhone 14 Pro (Secondary device)
+ Microsoft Lumia 950 (Secondary device)
  
  Macbook Pro 2014 i5 (Laptop)
  
