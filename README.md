@@ -8,8 +8,8 @@ Retro phone modding and repairing.
 Currently I am working on:
 Nokia 2780 Flip,
 Video editing,
-Retro phone modding and repair
-Android4Lumia950
+Retro phone modding and repair,
+Android4Lumia950,
 whatever else atm.
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=szbnce)](https://t.me/szbnce)
