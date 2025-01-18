@@ -19,8 +19,8 @@ whatever else atm.
 
  T Phone 2 Pro / T-Mobile Revvl 7 Pro (Secondary device)
  
- PC (Ryzen 7 3700x, 32Gb Corsair Vengence lpx, Sapphire Radeon 580 Nitro+ 8G and 3,8TB of storage all nicely packed in a Coolermaster Masterbox NR400 Case)
- 
+ ASUS TUF Gaming A15 (Ryzen 7 7435HS, 16GB DDR5 Ram, NVidia Geforce RTX 4050 6G)
+
  iPad Pro 11" 4. Generation (M2) + ESR Rebound keyboard + Apple Pencil ("Laptop", I use it to do my daily on the go stuff)
 
 ---
@@ -35,4 +35,4 @@ whatever else atm.
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/szbnce)
 
 ---
-Last edited: 2025 January 14, 22:40 CET
+Last edited: 2025 January 19, 00:10 CET
