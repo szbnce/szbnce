@@ -19,9 +19,9 @@ whatever else atm.
 
  T Phone 2 Pro / T-Mobile Revvl 7 Pro (Secondary device)
  
- ASUS TUF Gaming A15 (Ryzen 7 7435HS, 16GB DDR5 Ram, NVidia Geforce RTX 4050 6G)
+ ASUS TUF Gaming A15 (Ryzen 7 7435HS, 16GB DDR5 Ram, NVidia Geforce RTX 4050 6G) (Laptop, work machine)
 
- iPad Pro 11" 4. Generation (M2) + ESR Rebound keyboard + Apple Pencil ("Laptop", I use it to do my daily on the go stuff)
+ iPad Pro 11" 4. Generation (M2) + ESR Rebound keyboard + Apple Pencil (Daily to-go machine if I have something that my iPhone is too small for, but not enough that I have to take my laptop)
 
 ---
 ### Current Enviroments
