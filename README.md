@@ -1,27 +1,26 @@
-### Sup! I'm Bence Szabó a 15 Year old developer from Hungary.
+### Sup! I'm Bence Szabó a 16 Year old developer from Hungary.
 ---
 ### About me
-I'm a 15 (soon 16) year old software engineering student in Hungary. 
+I'm a 16 year old software engineering student in Hungary. 
 In the past I worked on various projects, e.g. Android maintainership, iOS Jailbreaking,
 Retro phone modding and repairing.
 
 Currently I am working on:
-Nokia 2780 Flip,
-Video editing,
 Retro phone modding and repair,
-Android4Lumia950,
 whatever else atm.
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=szbnce)](https://t.me/szbnce)
 ---
 ### Current working devices
- iPhone 16 Pro (Main device)
+ iPhone 16 Pro (Main device, not for long)
 
  T Phone 2 Pro / T-Mobile Revvl 7 Pro (Secondary device)
  
- ASUS TUF Gaming A15 (Ryzen 7 7435HS, 16GB DDR5 Ram, NVidia Geforce RTX 4050 6G) (Laptop, work machine)
+ Macbook Pro 14" (Late 2023, M3, 8/512, Primary laptop)
+ 
+ ASUS TUF Gaming A15 (Ryzen 7 7435HS, 16GB DDR5 Ram, NVidia Geforce RTX 4050 6G) (Work machine)
 
- iPad Pro 11" 4. Generation (M2) + ESR Rebound keyboard + Apple Pencil (Daily to-go machine if I have something that my iPhone is too small for, but not enough that I have to take my laptop)
+ iPad Pro 11" 4. Generation (M2) + ESR Rebound keyboard + Apple Pencil (Basically work tablet, using it for signing contracts and stuff like that, quite overkill but it is what it is)
 
 ---
 ### Current Enviroments
@@ -35,4 +34,4 @@ whatever else atm.
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/szbnce)
 
 ---
-Last edited: 2025 January 19, 00:10 CET
+Last edited: 2025 April 20, 10:15 CEST
