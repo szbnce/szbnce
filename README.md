@@ -6,21 +6,22 @@ In the past I worked on various projects, e.g. Android maintainership, iOS Jailb
 Retro phone modding and repairing.
 
 Currently I am working on:
-Retro phone modding and repair,
-whatever else atm.
+Photography / Videography (Sony A7IV + Tamron 28-75 F/2.8 G2)
+Editing (Photo: Lightroom/Photoshop / Video: Davinci Resolve)
+Whatever else at the moment.
 
 [![My Github stats:](https://github-readme-stats.vercel.app/api?username=szbnce)](https://t.me/szbnce)
 ---
 ### Current working devices
- iPhone 16 Pro (Main device, not for long)
+ Xiaomi 17 Ultra by Leica (Main phone)
 
- T Phone 2 Pro / T-Mobile Revvl 7 Pro (Secondary device)
+ Samsung Galaxy S25 (Secondary phone)
  
- Macbook Pro 14" (Late 2023, M3, 8/512, Primary laptop)
+ Macbook Pro (14" M3 8/512, laptop)
  
- ASUS TUF Gaming A15 (Ryzen 7 7435HS, 16GB DDR5 Ram, NVidia Geforce RTX 4050 6G) (Work machine)
+ Dell Latitude 5511 (Intel i7 10850H 32/512 MX250, Linux/Windows)
 
- iPad Pro 11" 4. Generation (M2) + ESR Rebound keyboard + Apple Pencil (Basically work tablet, using it for signing contracts and stuff like that, quite overkill but it is what it is)
+ Lenovo Thinkpad T400 (Work laptop for repairing phones)
 
 ---
 ### Current Enviroments
@@ -28,10 +29,9 @@ whatever else atm.
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white)](https://archlinux.org)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![MacOS](https://img.shields.io/badge/MacOS%20-F5C355?style=for-the-badge&logo=macos&logoColor=black)](https://www.apple.com/macos/sequoia)
-[![iOS 18](https://img.shields.io/badge/iOS%2018-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/ios-18/)
 ---
 ### Social:
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/szbnce)
 
 ---
-Last edited: 2025 April 20, 10:15 CEST
+Last edited: 2026 February 18, 7:00 CET
