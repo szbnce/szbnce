@@ -1,11 +1,12 @@
-### Sup! I'm Bence Szabó a 16 Year old developer from Hungary.
+### Sup! I'm Bence Szabó a 17 Year old developer from Hungary.
 ---
 ### About me
-I'm a 16 year old software engineering student in Hungary. 
+I'm a 17 year old software engineering student in Hungary. 
 In the past I worked on various projects, e.g. Android maintainership, iOS Jailbreaking,
 Retro phone modding and repairing.
 
 Currently I am working on:
+![PetTrack](https://github.com/szbnce/PetTrack)
 Photography / Videography (Sony A7IV + Tamron 28-75 F/2.8 G2)
 Editing (Photo: Lightroom/Photoshop / Video: Davinci Resolve)
 Whatever else at the moment.
@@ -15,7 +16,7 @@ Whatever else at the moment.
 ### Current working devices
  Xiaomi 17 Ultra by Leica (Main phone)
 
- Samsung Galaxy S25 (Secondary phone)
+ Redmi Note 15 Pro 5G (Secondary phone)
  
  Macbook Pro (14" M3 8/512, laptop)
  
@@ -25,8 +26,7 @@ Whatever else at the moment.
 
 ---
 ### Current Enviroments
-[![Android 14](https://img.shields.io/badge/Android%2014-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-14/)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=linux&logoColor=white)](https://archlinux.org)
+[![Android 16](https://img.shields.io/badge/Android%2016-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/android-16/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11)
 [![MacOS](https://img.shields.io/badge/MacOS%20-F5C355?style=for-the-badge&logo=macos&logoColor=black)](https://www.apple.com/macos/sequoia)
 ---
@@ -34,4 +34,4 @@ Whatever else at the moment.
 [![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://t.me/szbnce)
 
 ---
-Last edited: 2026 February 18, 7:00 CET
+Last edited: 2026 June 18, 19:05 CEST
