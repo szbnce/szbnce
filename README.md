@@ -6,7 +6,7 @@ In the past I worked on various projects, e.g. Android maintainership, iOS Jailb
 Retro phone modding and repairing.
 
 Currently I am working on:
-![PetTrack](https://github.com/szbnce/PetTrack)
+https://github.com/szbnce/PetTrack
 Photography / Videography (Sony A7IV + Tamron 28-75 F/2.8 G2)
 Editing (Photo: Lightroom/Photoshop / Video: Davinci Resolve)
 Whatever else at the moment.
